@@ -81,6 +81,8 @@ FOOD/
 │   ├── recipient/       # Recipient views
 │   └── superadmin/      # Super admin views
 └── utils/               # Helper modules (DB, auth, notifications, etc.)
+
+---
 ## ▶️ Run the Application
 
 Once everything is set up, run the following command from the project root:

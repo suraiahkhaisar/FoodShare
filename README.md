@@ -83,9 +83,8 @@ FOOD/
 └── utils/               # Helper modules (DB, auth, notifications, etc.)
 
 ---
-## ▶️ Run the Application
+▶️ Run the Application
 
 Once everything is set up, run the following command from the project root:
 
-```bash
 python app.py

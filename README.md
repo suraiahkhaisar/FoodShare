@@ -2,7 +2,7 @@
 *A Flask + MongoDB powered food donation platform*
 
 FoodShare is a web application that connects food donors (individuals, restaurants, organizations) with recipients (NGOs, shelters, and people in need).  
-It supports multiple user roles, donation tracking, location-based matching, and notifications via SMS/Email.
+It supports multiple user roles, donation tracking, location-based matching, and notifications.
 
 ---
 
